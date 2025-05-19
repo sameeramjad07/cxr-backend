@@ -1,5 +1,3 @@
-Here's your content in **Markdown format**:
-
 # CXR Inference Backend
 
 A FastAPI backend for chest X-ray (CXR) analysis using a PyTorch DenseNet121 model and Gemini API for report generation.
