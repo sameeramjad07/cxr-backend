@@ -1,6 +1,5 @@
 Here's your content in **Markdown format**:
 
-````markdown
 # CXR Inference Backend
 
 A FastAPI backend for chest X-ray (CXR) analysis using a PyTorch DenseNet121 model and Gemini API for report generation.
@@ -15,7 +14,6 @@ A FastAPI backend for chest X-ray (CXR) analysis using a PyTorch DenseNet121 mod
 git clone https://github.com/sameeramjad07/cxr-backend.git
 cd cxr-backend
 ```
-````
 
 ### 2. Initiliaze and activate your vitual environment:
 
@@ -24,7 +22,7 @@ python -m venv <your-env-name>
 .\<your-env-name>\Scripts\activate
 ```
 
-````
+
 
 ### 3. Install dependencies:
 
@@ -86,5 +84,3 @@ Update your Next.js frontend to call:
 - `http://localhost:8000/predict`
 - `http://localhost:8000/generate-report`
 
-```
-````
