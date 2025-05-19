@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+torchvision
+numpy
+opencv-python
+pydantic
+reportlab
+google-generativeai
+python-multipart
+python-dotenv
